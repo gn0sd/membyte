@@ -1,2 +1,0 @@
-# membyte
-memcpy/strcpy implementation
